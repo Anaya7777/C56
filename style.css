@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(#f299e5n 0%, #803deb 100%);
+    text-align: center;   
+}
+h1{
+    color: cyan;
+    font-size: 200px;
+    font-family: fantasy;
+}
